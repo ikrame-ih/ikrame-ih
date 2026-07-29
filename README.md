@@ -1,35 +1,31 @@
-# ✦ Ikrame Ibn Hayoun
+<div align="center">
 
-Software Developer based in Málaga, Spain.  
-I build clean interfaces, reliable APIs, and tools that are thought through.
+<br />
 
-✦ [ikrame.dev](https://ikrame.dev) &nbsp;╱&nbsp; ◈ [in/ikrame-ih](https://www.linkedin.com/in/ikrame-ih/)
+# Hi, I'm Ikrame!
 
----
+<p><b>Software developer based in Málaga, Spain · Frontend & Backend</b></p>
+<p>Welcome! If you're coming from my portfolio (<a href="https://ikrame.dev/"><b>ikrame.dev</b></a>), you'll find all my open-source code and featured projects pinned right below.</p>
 
-### ◈ Projects
+<br />
 
-**[MyPlaythrough](https://my-playthrough.vercel.app/)** ↗  
-Personal game backlog & collection manager. React, Node.js, Express, PostgreSQL, Docker.  
-Final DAW project — top grade.
+<a href="https://ikrame.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-ikrame.dev-4A0E0E?style=for-the-badge&logo=vercel&logoColor=F5F1EB" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ikrame-ih/">
+  <img src="https://img.shields.io/badge/LinkedIn-ikrame--ih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-**[Live Event Radar](https://live-event-radar.vercel.app)** ↗  
-Real-time ops dashboard for brand activations. Next.js, TypeScript, Zustand, Leaflet.
+<br /><br />
 
-**[Aiba](https://github.com/ikrame-ih/aiba-widget)** ↗  
-Local-first focus & productivity companion for Windows. Electron, React 19, TypeScript.
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
-**[ReconFlow](https://github.com/ikrame-ih/dev-portfolio)** ↗  
-Headless bank & invoice reconciliation pipeline. Python, FastAPI, PostgreSQL, dbt.
-
----
-
-### ▸ Stack
-
-Frontend &nbsp;⎯&nbsp; React · Next.js · TypeScript · Vite · Tailwind CSS · Framer Motion  
-Backend &nbsp;&nbsp;⎯&nbsp; Node.js · Express · Python · FastAPI · PostgreSQL  
-Tooling &nbsp;&nbsp;⎯&nbsp; Git · GitHub Actions · Docker · Vitest · Playwright · Vercel
-
----
-
-*DAW graduate (Jun 2026) · AI & Big Data starting Sept 2026 · Open to remote & hybrid roles.*
+</div>
