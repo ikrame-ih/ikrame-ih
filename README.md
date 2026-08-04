@@ -1,10 +1,16 @@
 <div align="center">
 
-<br />
+### Backend developer · FastAPI · PostgreSQL · Node
 
-<p><i>Welcome ✦ — If you're coming from <a href="https://ikrame.dev/">ikrame.dev</a>, 
-the source code for everything you saw there is pinned below.</i></p>
-
-<br />
+Based in Málaga · open to remote / hybrid
 
 </div>
+
+I build APIs and data paths — idempotent writes, ledgers, auth, Postgres — and I ship React when the product needs a UI.
+
+**Start here:** [ReckonFlow](https://github.com/ikrame-ih/reckon-flow) — corporate travel reconciliation API  
+Live docs: [reckon-flow.onrender.com/docs](https://reckon-flow.onrender.com/docs) · Case study: [ikrame-ih.github.io/reckon-flow](https://ikrame-ih.github.io/reckon-flow/)
+
+**Portfolio:** [ikrame.dev](https://ikrame.dev/) · **LinkedIn:** [ikrame-ih](https://www.linkedin.com/in/ikrame-ih/)
+
+Pinned below = source for everything on the site.
