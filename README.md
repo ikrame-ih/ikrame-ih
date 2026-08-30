@@ -28,7 +28,7 @@ Student · Postgraduate specialization in **AI & Big Data**
 
 ---
 
-Backend developer in Málaga. I build FastAPI services on PostgreSQL — retries, validation, the boring parts that have to be right — and I put generative AI on those same paths when it earns its place: structured extraction, embeddings, hybrid retrieval. I also work with agents (prompts, skills, routing, context), spec-driven.
+Backend developer in Málaga. I build FastAPI services on PostgreSQL and I put generative AI on those paths: structured extraction, embeddings, hybrid retrieval. I also work with agents (prompts, skills, routing, context), spec-driven.
 
 Screenshots and write-ups live on [ikrame.dev](https://ikrame.dev).
 
