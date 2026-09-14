@@ -2,12 +2,12 @@
 
 # Ikrame Ibn Hayoun
 
-**Python backend · FastAPI · GenAI**
+**Backend Python | FastAPI | PostgreSQL | Applied AI**
 
-Málaga, Spain · Open to remote / hybrid
+Málaga, Spain | Open to remote or hybrid
 
-Student · Postgraduate specialization in **AI & Big Data**  
-*Curso de Especialización* · EQF 5 · vocational — not a university MSc
+Student | Vocational master's in **AI & Big Data** (100% online)  
+*Curso de Especialización*, EQF Level 5, vocational (not a university MSc)
 
 <br/>
 
@@ -21,39 +21,51 @@ Student · Postgraduate specialization in **AI & Big Data**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
 </div>
 
 ---
 
-Backend developer in Málaga. I build FastAPI services on PostgreSQL and I put generative AI on those paths: structured extraction, embeddings, hybrid retrieval. I also work with agents (prompts, skills, routing, context), spec-driven.
+Backend Python engineer in Málaga. I build REST APIs with FastAPI, PostgreSQL, Redis, and Celery for systems that must stay consistent under concurrent requests and retries.
 
-Screenshots and write-ups live on [ikrame.dev](https://ikrame.dev).
+Applied AI starts with **ReckonFlow**: structured LLM outputs through closed schemas, deterministic validation in code, and zero authority for the model to approve or pay. I work from written specs, with AI-assisted coding and a human merge (Spec-Driven Development).
 
-### Featured work
+Detailed write-ups and screenshots live on [ikrame.dev](https://ikrame.dev).
 
-- **[ReckonFlow](https://github.com/ikrame-ih/reckon-flow)** — Headless corporate travel API: approvals, double-entry ledger, LLM receipt extraction, hybrid bank match. FastAPI, PostgreSQL, Redis, PydanticAI.  
-  [API docs](https://reckon-flow.onrender.com/docs)
+### Python Backends & SaaS
 
-- **[import-resolve-cli](https://github.com/ikrame-ih/import-resolve-cli)** — Git merge driver for Python import blocks. Zero runtime deps. On [PyPI](https://pypi.org/project/import-resolve-cli/).
+- **[ReckonFlow](https://github.com/ikrame-ih/reckon-flow)**: Headless corporate expense and financial reconciliation API. Immutable double-entry ledger, Decimal precision, Redis idempotency middleware, PostgreSQL row locks (`FOR UPDATE`), asynchronous HTTP 202 background jobs, and hybrid RAG search (SQL prefilter, RapidFuzz, vector embeddings via Reciprocal Rank Fusion).  
+  [API Docs (Live)](https://reckon-flow.onrender.com/docs)
 
-- **Málaga Onboarding** — Guide for PTA expats relocating to Málaga. Deterministic plan API on the user path; LangGraph.js fact-check for the operator. Source is private.  
-  [Live](https://malaga-onboarding.pages.dev/)
+- **Validata**: B2B SaaS for batch lookup of Spanish companies by razón social against official BORME records. FastAPI, Celery distributed worker queues, Redis atomic quotas, PostgreSQL, and React. Preserves original dataset columns on export. Co-developed with [Jairo García Antolín](https://jagardev.com/).  
+  *Commercial product, private repository*
 
-- **[MyPlaythrough](https://github.com/ikrame-ih/my-playthrough)** — Capstone for a Higher Vocational Degree in Web Application Development (Spanish *DAW* · EQF 5 · HND equivalent), graded 10/10. React, Express, PostgreSQL, JWT, Docker.  
-  [Live](https://my-playthrough.vercel.app)
+### Published Tools
+
+- **[import-resolve-cli](https://github.com/ikrame-ih/import-resolve-cli)**: Git merge driver and CLI for Python import conflicts using standard library AST. Zero runtime dependencies. Full CI matrix with pytest, mypy, and ruff. Published on [PyPI](https://pypi.org/project/import-resolve-cli/).
+- **[english-spanish-web-localization](https://www.skills.sh/ikrame-ih/english-spanish-web-localization/english-spanish-web-localization)**: Agent skill with public source on [skills.sh](https://skills.sh). `locale_guard` validates tone and formatting across JSON catalogs (en-GB, en-US, es-ES, es-419).
+
+### Other Work
+
+- **[Live Event Radar](https://github.com/ikrame-ih/live-event-radar)**: Real-time venue operations dashboard. Next.js, React 19, TypeScript, and pure telemetry state derivations with Zustand.  
+  [Live Demo](https://live-event-radar.vercel.app)
+- **[MyPlaythrough](https://github.com/ikrame-ih/my-playthrough)**: Full-stack PERN web application (PostgreSQL, Express, React, Node.js, Docker Compose, Vitest). Capstone for Higher Vocational Degree in Web Development (DAW), graded 10/10.  
+  [Live Demo](https://my-playthrough.vercel.app)
+- **Málaga Onboarding**: Expat relocation guide for Málaga TechPark. Deterministic dependency graph API on user path (0€ LLM cost) with LangGraph.js fact-checker for the operator.  
+  [Live Demo](https://malaga-onboarding.pages.dev/)
 
 ---
 
 <div align="center">
 
-### Stack
+### Stack & Tooling
 
-**Backend** · Python, FastAPI, SQLAlchemy, Alembic, Pydantic, PostgreSQL, Redis, Node.js / Express  
-**AI** · PydanticAI, LangGraph / LangGraph.js, hybrid retrieval / RRF, structured outputs, guardrails, LLM routing, context engineering, spec-driven workflows  
-**Delivery** · pytest, mypy, Ruff, Docker, GitHub Actions, React, TypeScript
+**Backend:** Python, FastAPI, PostgreSQL, Redis, Celery, SQLAlchemy, Alembic, Pydantic, REST APIs, SQL, Node.js / Express  
+**Applied AI:** PydanticAI, LangGraph, hybrid retrieval / RRF, structured outputs, closed schemas (`extra="forbid"`), prompt engineering, guardrails against prompt injection, Spec-Driven Development (SDD)  
+**Delivery & Ops:** pytest, mypy, Ruff, Docker, Docker Compose, GitHub Actions CI/CD, Prometheus, React, TypeScript, Vitest  
+**Coursework in progress:** PySpark, DataFrames, Spark, NumPy, Pandas, TensorFlow, PyTorch, Kafka (Vocational Master's in AI & Big Data)
 
 <img src="https://skillicons.dev/icons?i=python,postgres,redis,docker,githubactions,react,typescript,nodejs&theme=light" alt="Stack icons" />
 
