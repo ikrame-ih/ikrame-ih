@@ -4,11 +4,6 @@
 
 **Backend Python | FastAPI | PostgreSQL | Applied AI**
 
-Málaga, Spain | Open to remote or hybrid
-
-Student | Vocational master's in **AI & Big Data** (100% online)  
-*Curso de Especialización*, EQF Level 5, vocational (not a university MSc)
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ikrame.dev-4A0E0E?style=for-the-badge&labelColor=1A1A1A)](https://ikrame.dev)
