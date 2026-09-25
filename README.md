@@ -10,6 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ikrame--ih-4A0E0E?style=for-the-badge&logo=linkedin&logoColor=F5F1EB&labelColor=1A1A1A)](https://www.linkedin.com/in/ikrame-ih/)
 [![Email](https://img.shields.io/badge/Email-write_me-4A0E0E?style=for-the-badge&logo=gmail&logoColor=F5F1EB&labelColor=1A1A1A)](mailto:ikihga2223@gmail.com)
 
+<!-- DEVTO-FOLLOWERS-COUNT:START -->
+[DEV.to](https://dev.to/ikrame-ih) followers: updating soon
+<!-- DEVTO-FOLLOWERS-COUNT:END -->
+
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
