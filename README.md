@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-write_me-4A0E0E?style=for-the-badge&logo=gmail&logoColor=F5F1EB&labelColor=1A1A1A)](mailto:ikihga2223@gmail.com)
 
 <!-- DEVTO-FOLLOWERS-COUNT:START -->
-[DEV.to](https://dev.to/ikrame-ih) followers: **113**
+[DEV.to](https://dev.to/ikrame-ih) followers: **159**
 <!-- DEVTO-FOLLOWERS-COUNT:END -->
 
 <br/>
